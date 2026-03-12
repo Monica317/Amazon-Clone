@@ -1,4 +1,4 @@
-🛒 Amazon Clone (HTML & CSS)
+Amazon Clone (HTML & CSS)
 A responsive Amazon homepage clone built using only HTML5 and CSS3.
 This project focuses on layout structuring, styling, responsiveness, and hover interactions without using JavaScript.
 
@@ -22,16 +22,16 @@ HTML5 – Structure and semantic layout
 
 CSS3 – Styling, Flexbox, hover effects, and media queries
 
-📱 Responsive Design
+Responsive Design
 The layout adapts to different screen sizes:
 
-📱 Mobile screens
+Mobile screens
 
-💻 Laptops & desktops
+ Laptops & desktops
 
 Media queries are used to ensure a consistent user experience across devices.
 
-🎯 Purpose of the Project
+Purpose of the Project
 Practice front-end development fundamentals
 
 Understand real-world website layouts
