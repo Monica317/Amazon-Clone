@@ -42,7 +42,7 @@ a {
     width: 100px;
 }
 
-/* Search Bar Fixes */
+/* Search Bar */
 .nav-search {
     display: flex;
     flex: 1;
@@ -97,7 +97,7 @@ span { font-size: 0.75rem; }
 .panel-ops { flex: 1; margin-left: 10px; }
 .panel-ops a { margin-right: 15px; padding: 5px; }
 
-/* Hero Section Fix */
+/* Hero Section */
 .hero-section {
     background-image: url("https://uploads.onecompiler.io/449g68tbk/44acrqg33/hero_image.jpg");
     height: 550px;
